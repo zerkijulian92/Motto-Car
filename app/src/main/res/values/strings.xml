@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Car Rental</string>
+    <string name="popular_car">Popular Car</string>
+    <string name="view_all">View All</string>
+</resources>
