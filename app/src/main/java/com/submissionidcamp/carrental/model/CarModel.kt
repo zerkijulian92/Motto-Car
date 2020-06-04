@@ -6,6 +6,7 @@ import kotlinx.android.parcel.Parcelize
 @Parcelize
 data class CarModel (
     var id: String ?="",
+    var judul: String ?="",
     var tipe: String ?="",
     var merek: String ?="",
     var desc: String ?="",
