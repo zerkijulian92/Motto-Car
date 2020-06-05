@@ -24,6 +24,9 @@ Fitur yang harus ada pada aplikasi:
 #### Syarat:
 * Menampilkan foto diri, nama dan email yang terdaftar di Dicoding.
 
+# Sertifikat Dicoding
+
+
 # Note! 
 Bagi teman-teman yang masih mengikuti kelas dari dicoding, Kelas Android Pemula. Silahkan gunakan source ini sebagai bahan referensi, tapi TIDAK untuk disalin secara utuh tanpa tau cara implementasinya.
 
