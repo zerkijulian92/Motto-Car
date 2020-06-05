@@ -25,7 +25,7 @@ Fitur yang harus ada pada aplikasi:
 * Menampilkan foto diri, nama dan email yang terdaftar di Dicoding.
 
 # Sertifikat Dicoding
-
+![Sertifikat Kelulusan Belajar Membuat Aplikasi Android untuk Pemula  2020](https://user-images.githubusercontent.com/50509675/83855526-673db980-a742-11ea-88e8-2ebdc2a3e809.png)
 
 # Note! 
 Bagi teman-teman yang masih mengikuti kelas dari dicoding, Kelas Android Pemula. Silahkan gunakan source ini sebagai bahan referensi, tapi TIDAK untuk disalin secara utuh tanpa tau cara implementasinya.
