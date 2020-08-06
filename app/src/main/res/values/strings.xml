@@ -4,4 +4,7 @@
     <string name="view_all">View All</string>
     <string name="desc">"is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book". </string>
     <string name="motto">Motto Car Rental App For Android</string>
+    <string name="motto_car">Motto Car Rental App</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="title_motto">MOTTO</string>
 </resources>
