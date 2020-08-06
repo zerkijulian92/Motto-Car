@@ -11,7 +11,7 @@ import com.submissionidcamp.carrental.model.CarModel
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
-    // Inisialisasi
+    // Inisialisasi Code
     private var datalist = ArrayList<CarModel>()
 
     override fun onCreate(savedInstanceState: Bundle?) {
