@@ -27,13 +27,3 @@ Fitur yang harus ada pada aplikasi:
 # Sertifikat Dicoding
 ![Sertifikat Kelulusan Belajar Membuat Aplikasi Android untuk Pemula  2020](https://user-images.githubusercontent.com/50509675/83855526-673db980-a742-11ea-88e8-2ebdc2a3e809.png)
 
-# Note! 
-Bagi teman-teman yang masih mengikuti kelas dari dicoding, Kelas Android Pemula. Silahkan gunakan source ini sebagai bahan referensi, tapi TIDAK untuk disalin secara utuh tanpa tau cara implementasinya.
-
-Ayolah kawan.. Kalian sudah bayar mahal untuk ikut kelas ini, kalian harus dapat ilmunya. Percuma kalian dapat sertifikat dari dicoding kalau di kemudian hari kalian tidak mendapatkan ilmunya dari sini.
-
-Semangat kawan.. Perjalanan masih panjang. Lakukan yang terbaik yang kalian bisa. Silahkan tanya saya jika ada yang kurang dimengerti. Kalau saya bisa bantu, pasti saya dampingi.
-
-Mari kita maju bersama-sama..
-
-
